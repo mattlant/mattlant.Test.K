@@ -15,5 +15,5 @@ to show something that would be a bit more real-world.
 - I limited test coverage for this coding test. 
 - I uploaded to GitHub because everyone wants to see your massive portfolio of 
 work online these days ;-P.
-- Extra notes can be found in <remarks> tags in xml doc comments.
+- Extra notes can be found in remarks tags in xml doc comments.
 TESTESTTEST
